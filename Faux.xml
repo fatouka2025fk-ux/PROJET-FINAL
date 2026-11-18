@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!-- Projet final - Fatou Ka, ne(e) le 21/08/2005 -->
+
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="catalogue.xsd"
+          cote="LIV-01" type="livre" disponible="true">
+    <titre>Le Jardin des Sables</titre>
+
+    <auteur>Binta Seck</auteur>
+    <auteur>Awa Sy</auteur>
+
+    <annee>2012</annee>
+
+    <prix>3500</prix>
+    
+
+</document>
